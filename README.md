@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nwogueze
-- 👀 I’m interested in ...
+- 👀 I’m interested in sports, music and writing
 - 🌱 I’m currently learning Advanced SQL and software development
 - 💞️ I’m looking to collaborate on utilising advanced Excel functions, SQL, and Power BI to extract actionable insights from complex data and power strategic alignment
 - 📫 How to reach me on linkedin via www.linkedin.com/in/eze-nwogu-5405a855
